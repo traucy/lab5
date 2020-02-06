@@ -1,1 +1,5 @@
-.DS_Stroe
+# Object file
+*.o
+
+# Ada Library Information
+*.ali
